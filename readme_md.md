@@ -144,9 +144,8 @@ O dashboard será inicializado automaticamente no navegador no endereço `http:/
 
 Desenvolvido por **Maria** — Pós-graduada em Engenharia de Dados & Especialista em Soluções Analíticas.
 
-* **LinkedIn:** [linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com)
-* **GitHub:** [github.com/SEU_GITHUB](https://github.com)
-* **Portfólio:** [Link do Portfólio / Projetos]
+* **LinkedIn:** (www.linkedin.com/in/maria-eduarda-nascimento-980579372)
+* **GitHub:** ([https://github.com](https://github.com/mariaeduarda-dataeng))
 
 ---
 *Projeto desenvolvido para fins de demonstração técnica e resolução de casos estratégicos de negócios.*
