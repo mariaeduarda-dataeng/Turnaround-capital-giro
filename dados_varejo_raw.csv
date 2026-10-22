@@ -1,0 +1,16 @@
+id_produto,nome_produto,categoria,preco_unitario,custo_unitario,qtd_vendida_12m,qtd_estoque_atual,prazo_fornecedor_pmp_dias,modalidade_pagamento_predominante
+SKU-101,Geladeira Frost Free 400L,Linha Branca,3400.00,2500.00,3800,290,75,Crediario_18x_24x
+SKU-102,Smart TV 55 Pol 4K,Eletronicos,2800.00,2000.00,4200,320,60,Crediario_18x_24x
+SKU-103,Lavadora de Roupas 11kg,Linha Branca,2200.00,1600.00,3100,240,75,Crediario_18x_24x
+SKU-104,Smartphone 128GB 5G,Telefonia,1600.00,1200.00,5800,380,90,Cartao_Credito
+SKU-105,Fogao 4 Bocas Inox,Linha Branca,950.00,680.00,1900,210,60,PIX
+SKU-106,Fritadeira Airfryer 4L,Eletroportateis,380.00,260.00,2400,250,60,Cartao_Credito
+SKU-107,Micro-ondas 30L,Eletroportateis,620.00,440.00,1500,180,60,Cartao_Credito
+SKU-108,Aspirador de Po Vertical,Eletroportateis,240.00,160.00,1100,140,60,PIX
+SKU-109,Ventilador de Torre,Climatizacao,320.00,220.00,120,95,60,Crediario_18x_24x
+SKU-110,Batedeira Planetaria Especial,Eletroportateis,480.00,350.00,80,110,60,Crediario_18x_24x
+SKU-111,Aquecedor de Mamadeira Eletrico,Utilidades,110.00,75.00,35,140,60,Crediario_18x_24x
+SKU-112,Capinha Celular Silicone 2019,Acessorios,30.00,10.00,20,180,60,Dinheiro
+SKU-113,Suporte Articulado TV 32-55,Acessorios,95.00,55.00,150,130,60,Cartao_Credito
+SKU-114,Carregador Portatil 5000mAh,Acessorios,85.00,50.00,70,90,60,PIX
+SKU-115,Ferro de Passar a Seco,Eletroportateis,90.00,60.00,200,85,60,Dinheiro
